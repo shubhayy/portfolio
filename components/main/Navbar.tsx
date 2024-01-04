@@ -22,7 +22,7 @@ const Navbar = () => {
             </a>
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
             <a href="/">
-              <h1 className="text-lg">Hi I`&apos;`m Shubhay</h1>
+              <h1 className="text-lg">Hi I&apos;m Shubhay</h1>
             </a>
           </span>
         </a>
